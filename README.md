@@ -1,7 +1,7 @@
 # Project overview
 This project explores rental market trends in Toront through data collection, analysis, and visualization. A custom web scraper was developed to extract real estate listings from property.ca. The collected data was then cleaned, analyzed, and visualized to identify key factors influencing rental prices.
 
-# Objetives
+# Objectives
 - **Develop a Web Scraper:** Implement a Python-based scraper capable of systematically extracting rental listing data.
 - **Data Collection:** Gather structured data on rental properties, including location, price, size, and other features.
 - **Exploratory Data Analysis (EDA):** Analyze market trends, identify patterns, and evaluate key drivers of rental pricing.
@@ -36,7 +36,7 @@ This project explores rental market trends in Toront through data collection, an
 
 This project provides a data-driven approach to evaluating rental prices, offering insights that can help renters make informed decisions. The average price per square foot metric serves as a valuable benchmark for price evaluation across different neighborhoods.
 
-For an visual presentation of the project, visit: https://github.com/diogofn1/Toronto-rental-market/blob/main/Web%20Scrapping%20Project%20-%20Presentation.pdf.
+For a visual presentation of the project, visit: https://github.com/diogofn1/Toronto-rental-market/blob/main/Web%20Scrapping%20Project%20-%20Presentation.pdf.
 
 
 
